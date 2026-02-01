@@ -1,0 +1,6 @@
+h=input()
+w=input()
+a=int(h)
+b=int(w)
+area=(a*b)
+print("area of rectangle:",area)

@@ -1,0 +1,9 @@
+a=1
+while(a<=50):
+    b=2
+    while(b<=2):
+        if(b%a==0):
+            a+=1
+        if(a>b/2):
+            print(a,end=".")
+        a+=1

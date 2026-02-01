@@ -1,0 +1,5 @@
+a=(1,2,"snehal",True,False)
+print(a)
+print(type(a))
+print(len(a))
+print(id(a))
